@@ -2,9 +2,11 @@
 
 ## Description
 
-This is a simple todo list. We can add, delete and change the status of toto item (completed/pending).
-dsa_question_2.js file is for solution of DSA question 2.
-db_query.js file is for aggregation query to find desired result as mention in mail.
+-This is a simple todo list. We can add, delete and change the status of todo item (completed/pending).
+
+-dsa_question_2.js file is for solution of DSA question 2.
+
+-db_query.js file is for aggregation query to find desired result as mention in mail.
 
 ## Installation
 
